@@ -8,6 +8,6 @@
 }
 
 /* Ensure light background without conflicting with Tailwind */
-html {
-  background-color: #f9fafb;
+html ,body{
+  background-color: #c2e0fa!important;
 }
